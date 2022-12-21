@@ -1,4 +1,3 @@
-# espanso-package-example
-An example on how to create an espanso package.
+# espanso-package-czech
 
-For more information, read the [documentation](https://espanso.org/docs/)
+Type czech letters without switching keyboard layout
